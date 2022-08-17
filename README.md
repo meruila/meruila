@@ -9,3 +9,5 @@ Yb, `88       88           IP'`Yb IP'`Yb
      88       Y8, `YbadP' ,d8b,_ ,d8b,_ ,d8,   ,d8'  d8b 
      88       `Y8888P"Y8888P'"Y888P'"Y88P"Y8888P"    Y8P 
                                                         
+```
+I am Mira, a computer science student learning bioinformatics.
