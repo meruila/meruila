@@ -10,4 +10,4 @@ Yb, `88       88           IP'`Yb IP'`Yb
      88       `Y8888P"Y8888P'"Y888P'"Y88P"Y8888P"    Y8P 
                                                         
 ```
-I am Mira, a computer science student learning bioinformatics.
+I am Mira, a computer science student learning bioinformatics. 🧬
