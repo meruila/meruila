@@ -4,7 +4,8 @@
 
 I am a computer science student learning bioinformatics. 🧬  
 
-[![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mirarguelles@gmail.com)](mailto:mirarguelles@gmail.com)  
+[![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mirarguelles@gmail.com)](mailto:mirarguelles@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/meruila-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meruila/)
 [![Goodreads](https://img.shields.io/badge/meruila-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://goodreads.com/meruila)
 
 
