@@ -1,9 +1,9 @@
 <h1 align="center">
-    :hibiscus: Hello there! I am Mira. :hibiscus:
+    :hibiscus: :hibiscus: :hibiscus: 
 </h1>
 
-I am a computer science student learning bioinformatics. :dna:  
-Currently working on a pipeline for identifying patterns in fish methylomes using Bismark.  
+Hello! My name is Mira. I am a computer science student learning bioinformatics.
+ 
 
 <div align="center">
 
