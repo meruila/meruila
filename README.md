@@ -13,7 +13,7 @@ Hello! My name is Mira Arguelles.
     <br>
     From there, I discovered that cows are <b>female cattle</b>.
     <br>
-    I thought they were different animals. i hope i get a free pass on this. please. i studied computer science if that helps.
+    I thought they were different animals. i hope i get a free pass on this. i studied computer science if that helps.
 </details>
 <br>
 
