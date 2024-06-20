@@ -9,7 +9,7 @@ Hello! My name is Mira Arguelles.
 \:cow\: \:pig\: \:mouse\: For my thesis, I looked into the performance of different bisulfite sequencing analysis tools using real and simulated datasets of cattle, pig, and mouse.
 <details>
     <summary>While I was writing this,</summary>
-    I tried looking for a :cattle: emoji but I was only able to come up with a :cow: emoji.
+    I tried looking for :cattle: emoji but I was only able to come up with a :cow: emoji.
     <br>
     From there, I discovered that cows are <b>female cattle</b>.
     <br>
