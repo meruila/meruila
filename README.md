@@ -6,8 +6,10 @@ Hello! My name is Mira Arguelles.
 
 :fish: I study fish methylomes at the Philippine Genome Center - Program for Agriculture, Livestock, Fisheries, and Forestry under the **Tawilis Multi-omics Project**.
 
-:cow_face: :pig_face: :mouse_face: For my thesis, I looked into the performance of different bisulfite sequencing analysis tools using real and simulated datasets of cattle, pig, and mouse.
+\:cow_face\: \:pig_face\: \:mouse_face\: For my thesis, I looked into the performance of different bisulfite sequencing analysis tools using real and simulated datasets of cattle, pig, and mouse.
+<br>
 While writing this I discovered that cows are female cattle (since there was a \:cow\: emoji but no cattle emoji).
+<br>
 I thought they were different animals. I studied computer science so I hope I get a free pass on this.
  
 
