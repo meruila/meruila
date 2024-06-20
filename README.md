@@ -8,10 +8,12 @@ Hello! My name is Mira Arguelles.
 
 \:cow\: \:pig\: \:mouse\: For my thesis, I looked into the performance of different bisulfite sequencing analysis tools using real and simulated datasets of cattle, pig, and mouse.
 <details>
-    <summary>So while I was writing this</summary>
-    I discovered that cows are female cattle (since there was a \:cow\: emoji but no cattle emoji).
+    <summary>While I was writing this,</summary>
+    I tried looking for a :cattle: emoji but I was only able to come up with a :cow: emoji.
     <br>
-    I thought they were different animals. I studied computer science so I hope I get a free pass on this.
+    From there, I discovered that cows are **female cattle**.
+    <br>
+    I thought they were different animals. i hope i get a free pass on this. i studied computer science if that helps.
 </details>
 <br>
 
