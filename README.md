@@ -2,7 +2,7 @@
     :hibiscus: :hibiscus: :hibiscus: 
 </h1>
 
-Hello! My name is Mira Arguelles. I study :fish: methylomes at the Philippine Genome Center - Program for Agriculture, Livestock, Fisheries, and Forestry under the Tawilis Multi-omics Project.
+Hello! My name is Mira Arguelles. I study :fish: fish :fish: methylomes at the Philippine Genome Center - Program for Agriculture, Livestock, Fisheries, and Forestry under the Tawilis Multi-omics Project.
  
 
 <div align="center">
