@@ -11,9 +11,9 @@ Hello! My name is Mira Arguelles.
     <summary>While I was writing this,</summary>
     I tried looking for a :cattle: emoji but I was only able to come up with a :cow: emoji.
     <br>
-    From there, I discovered that cows are **female cattle**.
+    From there, I discovered that cows are <b>female cattle</b>.
     <br>
-    I thought they were different animals. i hope i get a free pass on this. i studied computer science if that helps.
+    I thought they were different animals. i hope i get a free pass on this. please. i studied computer science if that helps.
 </details>
 <br>
 
